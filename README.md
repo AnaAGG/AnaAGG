@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![portada](https://github.com/AnaAGG/AnaAGG/blob/main/cerebro.jpg?raw=true)
+![portada](https://github.com/AnaAGG/AnaAGG/blob/main/cerebro2.jpg?raw=true)
 <!--
 **AnaAGG/AnaAGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
